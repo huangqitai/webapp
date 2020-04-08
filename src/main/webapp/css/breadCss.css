@@ -1,0 +1,9 @@
+.login_div{
+     width: 400px;
+     height: 300px;
+     background-color: darksalmon;
+     margin: auto;
+ }
+.login_form{
+    margin-left: 40%;
+}
